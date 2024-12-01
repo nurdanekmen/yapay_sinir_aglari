@@ -1,0 +1,4 @@
+SVC Eğitim doğruluğu: 89.13%
+SVC Test doğruluğu: 86.52%
+En iyi SVC parametreleri: {'kernel': 'rbf', 'gamma': 'scale', 'degree': 4, 'C': 100}
+Optimizasyon sonrası SVC Test doğruluğu: 98.12%

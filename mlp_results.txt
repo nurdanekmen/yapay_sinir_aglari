@@ -1,0 +1,4 @@
+MLP Eğitim doğruluğu: 98.77%
+MLP Test doğruluğu: 95.74%
+En iyi MLP parametreleri: {'solver': 'sgd', 'max_iter': 200, 'learning_rate_init': 0.01, 'hidden_layer_sizes': (256, 128), 'early_stopping': True, 'alpha': 0.001, 'activation': 'relu'}
+Optimizasyon sonrası MLP Test doğruluğu: 97.03%
